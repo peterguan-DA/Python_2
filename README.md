@@ -1,3 +1,5 @@
+Dataset link: https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data/data
+
 This analysis was conducted on a dataset from Citi Bike, a bike-sharing service that allows users to pick up and drop off bikes at various docking stations throughout the city. The program is typically accessed through a membership or pay-per-ride system, where users can unlock bikes using a mobile app or membership card. Citi Bike offers both short-term rentals for casual riders and long-term memberships for frequent users. 
 The analysis examined usage patterns, mobility trends, and user demographics to answer these key questions:
 1. What are the most popular pick-up locations across the city for NY Citi Bike rental? 
